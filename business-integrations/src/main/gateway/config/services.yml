@@ -1,0 +1,8 @@
+business-integrations/b2b-services.xml:
+  url: "/b2b/*"
+  httpMethods:
+  - "DELETE"
+  - "POST"
+  - "GET"
+  - "PUT"
+  properties: {}

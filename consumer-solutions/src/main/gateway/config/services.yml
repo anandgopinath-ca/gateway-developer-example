@@ -1,0 +1,8 @@
+consumer-solutions/consumer-api.xml:
+  url: "/b2c/*"
+  httpMethods:
+  - "DELETE"
+  - "POST"
+  - "GET"
+  - "PUT"
+  properties: {}
